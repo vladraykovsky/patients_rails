@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  commentValue: MyString
+  patient: one
+
+two:
+  commentValue: MyString
+  patient: two
